@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/72498708/125913758-2a71f3aa-a828-4e15-8ac8-3fa4361a4b2a.png)]
+
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -7,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sharmapranjl" target="blank"><img src="https://img.shields.io/twitter/follow/sharmapranjl?logo=twitter&style=for-the-badge" alt="sharmapranjl" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 
 - 👨‍💻 All of my projects are available at [sharmapranjal.com](sharmapranjal.com)
 
