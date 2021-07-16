@@ -1,11 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/72498708/125913758-2a71f3aa-a828-4e15-8ac8-3fa4361a4b2a.png)]
+[![MasterHead](https://user-images.githubusercontent.com/72498708/125915134-cac0d64f-b73a-4d75-b60d-fc93b4823e53.png)]
 
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsharmaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalsharmaa" alt="pranjalsharmaa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sharmapranjl" target="blank"><img src="https://img.shields.io/twitter/follow/sharmapranjl?logo=twitter&style=for-the-badge" alt="sharmapranjl" /></a> </p>
 
