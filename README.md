@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/72498708/125915134-cac0d64f-b73a-4d75-b60d-fc93b4823e53.png)]
+[![MasterHead](https://user-images.githubusercontent.com/72498708/126025449-26a597eb-e7bd-4ae4-9a42-5d6380a101eb.png)]
 
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
