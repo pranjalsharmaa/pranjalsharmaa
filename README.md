@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/72498708/126025449-26a597eb-e7bd-4ae4-9a42-5d6380a101eb.png)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQFUyhvPc9TUHQ/profile-displaybackgroundimage-shrink_350_1400/0/1626422456333?e=1633564800&v=beta&t=Jj8J9expMyGukUi2buNDtyiPt3f-nKWxmvZQsP_O7Bw)
 
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
