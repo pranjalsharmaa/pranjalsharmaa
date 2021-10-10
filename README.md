@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAErZutIsd8/view)](https://pranjalsharmaa.github.io/pranjal)
+[![MasterHead](![image](https://user-images.githubusercontent.com/72498708/136684215-8dd0c36c-d52d-4416-ba58-c6bbe08daae7.png))](https://pranjalsharmaa.github.io/pranjal)
 
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
