@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://pranjal.github.io)
+[![MasterHead](https://www.canva.com/design/DAErZutIsd8/WZOCHoaB6psCAiXPgH-Bvw/watch?utm_content=DAErZutIsd8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://pranjalsharmaa.github.io/pranjal)
 
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
