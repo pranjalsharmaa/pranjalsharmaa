@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 
-- 👨‍💻 All About Me [P R A N J A L](https://pranjalsharmaa.github.io/pranjal.github.io/)
+- 👨‍💻 All About Me [P R A N J A L](https://pranjalsharmaa.github.io/pranjal)
 
 - 📝 I regularly write articles on [pranjalsharm.wordpress.com](pranjalsharm.wordpress.com)
 
